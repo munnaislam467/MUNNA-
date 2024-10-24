@@ -46,13 +46,13 @@ ________________________________________
 
 _____________𝙲𝙾𝙽𝚃𝙰𝙲𝚃_____________
 
-❇️𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙸𝙳 : https://www.facebook.com/Xsagorxnxx
+❇️𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝙺 𝙸𝙳 : https://www.facebook.com/profile.php?id=100094625323739
 
-❇️𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝚔 𝙿𝙰𝙶𝙴: https://M.me/Xsagorxnxx
+❇️𝙵𝙰𝙲𝙴𝙱𝙾𝙾𝚔 𝙿𝙰𝙶𝙴:https://https://www.facebook.com/profile.php?id=100052908496353
 
-❇️𝙱𝙾𝚃 𝙿𝚁𝙴𝙵𝙸𝚇 : ${global.config.PREFIX}
+❇️𝙱𝙾𝚃 𝙿𝚁𝙴𝙵𝙸𝚇 : /{global.config.PREFIX}
 
-❇️𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁 :  SAGOR_𝙸𝚂𝙻𝙰𝙼
+❇️𝙱𝙾𝚃 𝙾𝚆𝙽𝙴𝚁 :  MUNNA_ISLAM
 
 𝙾𝚃𝙷𝙴𝚁 𝙸𝙽𝙵𝙾𝙼𝙰𝚃𝙸𝙾𝙽____________________
 
