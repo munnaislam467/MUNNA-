@@ -18,7 +18,7 @@ handleEvent: function({ api, event, client, __GLOBAL }) {
   const body = content.toLowerCase();
   if (body.indexOf("Sagor")==0 || body.indexOf("SAGOR")==0 || body.indexOf("সাগর")==0 || body.indexOf("sagor")==0) {
     var msg = {
-        body: "সা্ঁগ্ঁর্ঁ এ্ঁখ্ঁন্ঁ খু্ঁব্ঁ বি্ঁজি্ঁ 🥰❤️🥀",
+        body: "MUNNA এ্ঁখ্ঁন্ঁ খু্ঁব্ঁ বি্ঁজি্ঁ 🥰❤️🥀",
         attachment: fs.createReadStream(__dirname + `/Nayan/boss.mp3`)
       }
       api.sendMessage( msg, threadID, messageID);
