@@ -1,5 +1,5 @@
 module.exports.config = {
-  name: "কষকু",
+  name: "kuran",
   version: "0.0.1",
   permission: 0,
   credits: "Islmaick Chat",
